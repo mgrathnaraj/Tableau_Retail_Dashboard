@@ -13,3 +13,5 @@ c) Profit or Loss based on age
 d) Regional quarterly average profit
 
 e) Show average sales, profit, discount
+
+![image](https://user-images.githubusercontent.com/33675436/137025414-931b9fcc-8bb7-4127-9013-120510417389.png)
