@@ -2,7 +2,7 @@
 
 Lets look at the trends and sales data for different US regions. Show the insights about sales, profit, discounts. So,
 
-Need to create a dashboard which should include the following insights -
+Created a dashboard which should include the following insights -
 
 a) Trend of state wise profit
 
